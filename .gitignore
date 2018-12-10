@@ -108,3 +108,6 @@ venv.bak/
 
 # project datasets
 datasets/
+
+# sqlite3 data
+*.sqlite
